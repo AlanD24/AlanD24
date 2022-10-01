@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlanD24
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning NodeJS
+- 👀 I’m interested in working in Web Development
+- 🌱 I’m currently reviewing concepts of React, Java and SQL.
 - 📫 How to reach me: alan.danjr@gmail.com
 
 <!---
